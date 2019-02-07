@@ -119,6 +119,7 @@ public class OreDictHandler
         OreDictionary.registerOre("logWood", CuisineRegistry.LOG);
         OreDictionary.registerOre("plankWood", CuisineRegistry.PLANKS);
         OreDictionary.registerOre("stickWood", CuisineRegistry.BAMBOO);
+        OreDictionary.registerOre("bamboo", CuisineRegistry.BAMBOO);
         OreDictionary.registerOre("doorWood", CuisineRegistry.ITEM_DOOR);
         OreDictionary.registerOre("fenceWood", CuisineRegistry.FENCE);
         OreDictionary.registerOre("fenceGateWood", CuisineRegistry.FENCE_GATE);
